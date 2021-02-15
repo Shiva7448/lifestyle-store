@@ -19,3 +19,6 @@ include_once("settings.html")
 <?php
 include_once("success.html")
 ?>
+<?php
+include_once("index.css")
+?>
